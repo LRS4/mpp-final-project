@@ -61,7 +61,7 @@ Predict the variable "accepted" (a binary variable) for each row of the test dat
 
 ## Result
 
-The result of the final project was 88 / 100 due to a 72.1% accuracy against the test dataset. This placed the final model built with LightGBM and feature engineering in 44th position of the leaderboard out of 414 competitors (top 11%).
+The result of the final project was 84 / 100 due to a 72.1% accuracy against the test dataset. This placed the final model built with LightGBM and feature engineering in 44th position of the leaderboard out of 414 competitors (top 11%).
 
 ![Result](score.png)
 ![Top50](result.png)
